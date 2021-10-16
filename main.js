@@ -736,6 +736,11 @@ Some people are standing in a row in a park. There are trees between them which 
 // }
 
 // sortbyModel();
+
+
+
+
+
 //2-M:
 // const sortbyId=()=>{
 //     console.log(
